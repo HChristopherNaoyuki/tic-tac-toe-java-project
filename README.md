@@ -14,7 +14,7 @@ A simple graphical Tic-Tac-Toe game implemented in Java using Swing. Players tak
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TicTacToe-Java.git
+   git clone https://github.com/HChristopherNaoyuki/tic-tac-toe-java-project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -46,5 +46,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by classic Tic-Tac-Toe gameplay.
 - Java Swing documentation for GUI development.
-
-```
