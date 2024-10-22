@@ -1,4 +1,4 @@
-# TicTacToe-Java
+# Tic-Tac-Toe in Java
 
 A simple graphical Tic-Tac-Toe game implemented in Java using Swing. Players take turns placing "X" and "O" on a 3x3 grid, with win/tie detection and a user-friendly interface. This project is perfect for learning GUI development and game logic!
 
